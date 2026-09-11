@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Affiliated%20with-IIM%20Raipur-informational?style=flat&logo=googlescholar&logoColor=white&color=orange" alt="Affiliation"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetamsinha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:preetam.appdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/Erpreetamsinha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
 ---
 
 ### 🔭 What I'm working on
@@ -33,6 +39,9 @@ CodeIgniter 4, REST API design, MySQL, Flutter/Dart app architecture, or buildin
 
 - 🌐 Portfolio: [preetamsinha.com](https://preetamsinha.com)
 - 💻 GitHub: [@preetamkumar017](https://github.com/preetamkumar017)
+- 💼 LinkedIn: [preetamsinha](https://www.linkedin.com/in/preetamsinha/)
+- 🐦 Twitter/X: [@Erpreetamsinha](https://twitter.com/Erpreetamsinha)
+- ✉️ Email: [preetam.appdev@gmail.com](mailto:preetam.appdev@gmail.com)
 
 ---
 
@@ -86,6 +95,10 @@ CodeIgniter 4, REST API design, MySQL, Flutter/Dart app architecture, or buildin
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetamkumar017&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=preetamkumar017&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
