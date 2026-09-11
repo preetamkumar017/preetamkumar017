@@ -89,16 +89,7 @@ CodeIgniter 4, REST API design, MySQL, Flutter/Dart app architecture, or buildin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=preetamkumar017&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Preetam's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetamkumar017&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetamkumar017&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetamkumar017&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=preetamkumar017&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
